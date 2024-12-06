@@ -12,8 +12,8 @@ The Amazon Clone includes:
 
 ## **Technologies Used**
 
-- **HTML**: 64.7% of the project is dedicated to the structure and content of the website.
-- **CSS**: 35.3% is used to style and make the site visually appealing, including layout, colors, and typography.
+- **HTML**: Project is dedicated to the structure and content of the website.
+- **CSS**: Is used to style and make the site visually appealing, including layout, colors, and typography.
 
 ## **Features**
 
